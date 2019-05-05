@@ -1,0 +1,21 @@
+{
+  "name": "@alumis/icons",
+  "version": "1.0.0",
+  "description": "Icon components for Octicons.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alumis/icons.git"
+  },
+  "author": "Emil Müller",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/alumis/icons/issues"
+  },
+  "devDependencies": {
+    "@alumis/observables-dom": "^1.0.65",
+    "octicons": "^8.5.0"
+  },
+  "peerDependencies": {
+    "@alumis/observables-dom": "^1.0.65"
+  }
+}
