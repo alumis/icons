@@ -1,0 +1,3 @@
+[submodule "build/atlaskit-mk-2"]
+	path = build/atlaskit-mk-2
+	url = https://bitbucket.org/atlassian/atlaskit-mk-2.git
